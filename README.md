@@ -1,5 +1,6 @@
 # Automatic-Vehicle-number-plate-system-using-edge-detection-according-to-the-color-shade-of-the-vehicle
-Detect a vehicle number plate using python and it's libraries for machine learning.
+Detect a vehicle number plate using python and it's libraries for machine learning with efficiency related to the color shade of the Vehicle.
+
 IMPLEMENTATION
 
 Install python opencv and other requirements from requirements.txt 
