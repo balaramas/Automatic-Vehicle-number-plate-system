@@ -21,4 +21,6 @@ Process the image of car having light shade of color with anpr2.py
 
 This is done for better efficiency.
 
+Use print.py to read the license plate image and store the number in a txt file in the data directory.
+
 If you face any problem, just email.
