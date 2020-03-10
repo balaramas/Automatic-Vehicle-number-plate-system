@@ -1,7 +1,7 @@
 import requests
 import json
 import csv
-
+#Use your api url from any sms sending service available to you.
 URL = 'https://www.sms4india.com/api/v1/sendCampaign'
 text=""
 f=open("data/images/number.txt", "r")
